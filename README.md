@@ -35,4 +35,4 @@ We will use a variety of technologies, including Python, Amazon Web Services (AW
 
 ## Dataset Used
 You can use any dataset, we are mainly interested in operation side of Data Engineering.
-
+Here is the data set I used -https://github.com/RamchandraDE/stock-market-kafka-data-engineering-project/blob/main/indexProcessed.csv
